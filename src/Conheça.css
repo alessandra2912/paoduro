@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .imagem {
+    flex: 1;
+  }
+  
+  .texto {
+    width: 900px;
+    height: 450PX;
+    margin: auto ;
+    padding: 20px;
+    background-color: #e6dede;
+    flex: 1;
+    padding-left: 20px;
+  }
+  
+  h1 {
+    left: -650px;
+    color: #333;
+  }
+  
+  h2 {
+    color: #666;
+  }
+  
+  p {
+    color: #999;
+  }
+  
